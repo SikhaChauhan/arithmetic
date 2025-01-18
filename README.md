@@ -9,4 +9,6 @@ Created a feature-sub branch
 Added a Sub method in the Calculator class of feature-sub branch
 Created a feature-multiply branch
 Added a Multiply method in the Calculator class of feature-multiply branch
+Created a feature-divide branch
+Added a Divide method in the Calculator class of feature-divide branch
 
