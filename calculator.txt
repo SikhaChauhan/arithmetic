@@ -22,10 +22,3 @@ Class Calculator{
    }
 }
 
-
-
-
-   public static void main{
-		
-   }
-}
