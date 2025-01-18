@@ -1,7 +1,10 @@
 Task 2 is done
 
 Class Calculator{
+   public int add(int a, int b){
+	return a + b;
+   }
    public static void main{
-
+		
    }
 }
