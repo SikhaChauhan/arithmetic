@@ -1,0 +1,7 @@
+Task 2 is done
+
+Class Calculator{
+   public static void main{
+
+   }
+}
